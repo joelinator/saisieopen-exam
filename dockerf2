@@ -1,0 +1,59 @@
+function getHtml()
+function Header(object){
+	if (object.type=='exam'){
+		return ('<table style="undefined;table-layout: fixed; width: 592px">
+		<colgroup>
+		<col style="width: 92px">
+		<col style="width: 92px">
+		<col style="width: 92px">
+		<col style="width: 92px">
+		<col style="width: 92px">
+		<col style="width: 92px">
+		</colgroup>
+		<tbody>
+		  <tr>
+		    <td colspan="6">'+object.body.etablissement.name+'</td>
+		  </tr>
+		  <tr>
+		    <td>EXAMEN</td>
+		    <td>'+object.body.name+'</td>
+		    <td>CLASSE</td>
+		    <td>'+object.body.classe+'</td>
+		    <td>SESSION</td>
+		    <td>'+object.body.anne_scolaire+'</td>
+		  </tr>
+		  <tr>
+		    <td>EPREUVE</td>
+		    <td>'+object.body.matiere.name+'</td>
+		    <td>COEFFICIENT</td>
+		    <td></td>
+		    <td>DUREE</td>
+		    <td>'+object.body.duration.split(':')[0]+' h'+object.body.duration.split(':')[1]!='00'?object.body.duration.split(':')[1]:''+'</td>
+		  </tr>
+		</tbody>
+		</table>')
+	}
+	else if (object.type=='part'){}
+	else if (object.type=='exercise'){
+		return '<li>
+<table style="height: 10px; width: 483px;">
+<tbody>
+<tr>
+<td style="width: 408px;">'+object.body.title+'</td>
+<td style="width: 59px;">5pts</td>
+</tbody>
+</table>
+</li>'
+	}
+	else if (object.type=='question'){
+		var tire=object.body.title?object.body.title:''
+		var points=object.body.points?object.body.points:''
+		var nom=object.body.name?object.body.name:''
+		var texte=object.body.text?object.body.text:''
+		return titre+nom+textejoelinator la puissance
+		}
+	else if (object.type=='text'){return ''}
+
+}
+function Body(object)
+function Footer(object)

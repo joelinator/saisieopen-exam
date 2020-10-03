@@ -1,0 +1,336 @@
+{
+    "code": 237,
+    "updated_at": "2020-08-05 16:15:23",
+    "name": "Cameroun",
+    "created_at": "2020-08-05 16:15:23",
+    "id": 16,
+    "regions": [
+      {
+        "updated_at": "2020-08-05 16:15:24",
+        "name": "Ouest",
+        "created_at": "2020-08-05 16:15:24",
+        "id": 1805,
+        "key": "0-0",
+        "schools": [
+          {
+            "updated_at": "2020-08-05 16:15:55",
+            "name": "Lycée 62 de Ouest",
+            "created_at": "2020-08-05 16:15:55",
+            "id": 1755,
+            "key": "0-0-0",
+            "classes": []
+          }
+        ]
+      },
+      {
+        "updated_at": "2020-08-05 16:15:24",
+        "name": "Sud-Ouest",
+        "created_at": "2020-08-05 16:15:24",
+        "id": 58,
+        "key": "0-1",
+        "schools": [
+          {
+            "updated_at": "2020-08-05 16:15:44",
+            "name": "Lycée 21 de Sud-Ouest",
+            "created_at": "2020-08-05 16:15:44",
+            "id": 193,
+            "key": "0-1-0",
+            "classes": []
+          }
+        ]
+      },
+      {
+        "updated_at": "2020-08-05 16:15:24",
+        "name": "Sud",
+        "created_at": "2020-08-05 16:15:24",
+        "id": 1917,
+        "key": "0-2",
+        "schools": [
+          {
+            "updated_at": "2020-08-05 16:15:57",
+            "name": "Lycée 74 de Sud",
+            "created_at": "2020-08-05 16:15:57",
+            "id": 235,
+            "key": "0-2-0",
+            "classes": []
+          }
+        ]
+      },
+      {
+        "updated_at": "2020-08-05 16:15:24",
+        "name": "Nord-Ouest",
+        "created_at": "2020-08-05 16:15:24",
+        "id": 1804,
+        "key": "0-3",
+        "schools": [
+          {
+            "updated_at": "2020-08-05 16:15:55",
+            "name": "Lycée 61 de Nord-Ouest",
+            "created_at": "2020-08-05 16:15:55",
+            "id": 216,
+            "key": "0-3-0",
+            "classes": []
+          }
+        ]
+      },
+      {
+        "updated_at": "2020-08-05 16:15:24",
+        "name": "Nord",
+        "created_at": "2020-08-05 16:15:24",
+        "id": 19,
+        "key": "0-4",
+        "schools": [
+          {
+            "updated_at": "2020-08-13 09:14:01",
+            "name": "why?",
+            "created_at": "2020-08-13 09:14:01",
+            "id": 2798,
+            "key": "0-4-0",
+            "classes": [
+              {
+                "updated_at": "2020-08-17 13:13:02",
+                "name": "Première D",
+                "created_at": "2020-08-17 13:13:02",
+                "id": 3792,
+                "key": "0-4-0-0",
+                "matieres": [
+                  {
+                    "updated_at": "2020-08-05 16:15:20",
+                    "name": "Mathématiques",
+                    "description": "12 Chapitres",
+                    "created_at": "2020-08-05 16:15:20",
+                    "id": 1951,
+                    "key": "0-4-0-0-0",
+                    "annees": [
+                      {
+                        "updated_at": "2020-08-13 09:14:00",
+                        "active": false,
+                        "created_at": "2020-08-13 09:14:00",
+                        "annee": "2018\/2019",
+                        "id": 2778,
+                        "key": "0-4-0-0-0-0",
+                        "entrances": [],
+                        "concours": [
+                          {
+                            "duration": "02:00",
+                            "classe": "Première D",
+                            "date_of_composition": "2020-08-11 10:07:00",
+                            "updated_at": "2020-08-13 10:49:01",
+                            "session": "2017",
+                            "name": "Test Epreuve",
+                            "description": "f**king nightmare",
+                            "created_at": "2020-08-13 10:09:55",
+                            "intitule": "",
+                            "content": [
+                              "2932p"
+                            ],
+                            "id": 41
+                          }
+                        ],
+                        "exams": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "updated_at": "2020-08-05 16:15:40",
+            "name": "Lycée 5 de Nord",
+            "created_at": "2020-08-05 16:15:40",
+            "id": 106,
+            "key": "0-4-1",
+            "classes": []
+          }
+        ]
+      },
+      {
+        "updated_at": "2020-08-05 16:15:24",
+        "name": "Littoral",
+        "created_at": "2020-08-05 16:15:24",
+        "id": 1916,
+        "key": "0-5",
+        "schools": [
+          {
+            "updated_at": "2020-08-13 09:14:01",
+            "name": "why?",
+            "created_at": "2020-08-13 09:14:01",
+            "id": 2798,
+            "key": "0-5-0",
+            "classes": [
+              {
+                "updated_at": "2020-08-17 13:13:02",
+                "name": "Première D",
+                "created_at": "2020-08-17 13:13:02",
+                "id": 3792,
+                "key": "0-5-0-0",
+                "matieres": [
+                  {
+                    "updated_at": "2020-08-05 16:15:20",
+                    "name": "Mathématiques",
+                    "description": "12 Chapitres",
+                    "created_at": "2020-08-05 16:15:20",
+                    "id": 1951,
+                    "key": "0-5-0-0-0",
+                    "annees": [
+                      {
+                        "updated_at": "2020-08-13 09:14:00",
+                        "active": false,
+                        "created_at": "2020-08-13 09:14:00",
+                        "annee": "2018\/2019",
+                        "id": 2778,
+                        "key": "0-5-0-0-0-0",
+                        "entrances": [],
+                        "concours": [
+                          {
+                            "duration": "02:00",
+                            "classe": "Première D",
+                            "date_of_composition": "2020-08-11 10:07:00",
+                            "updated_at": "2020-08-13 10:49:01",
+                            "session": "2017",
+                            "name": "Test Epreuve",
+                            "description": "f**king nightmare",
+                            "created_at": "2020-08-13 10:09:55",
+                            "intitule": "",
+                            "content": [
+                              "2932p"
+                            ],
+                            "id": 41
+                          }
+                        ],
+                        "exams": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "updated_at": "2020-08-05 16:15:57",
+            "name": "Lycée 73 de Littoral",
+            "created_at": "2020-08-05 16:15:57",
+            "id": 1852,
+            "key": "0-5-1",
+            "classes": []
+          }
+        ]
+      },
+      {
+        "updated_at": "2020-08-05 16:15:24",
+        "name": "Extrême-Nord",
+        "created_at": "2020-08-05 16:15:24",
+        "id": 18,
+        "key": "0-6",
+        "schools": [
+          {
+            "updated_at": "2020-08-05 16:15:40",
+            "name": "Lycée 4 de Extrême-Nord",
+            "created_at": "2020-08-05 16:15:40",
+            "id": 175,
+            "key": "0-6-0",
+            "classes": []
+          }
+        ]
+      },
+      {
+        "updated_at": "2020-08-05 16:15:23",
+        "name": "Est",
+        "created_at": "2020-08-05 16:15:23",
+        "id": 17,
+        "key": "0-7",
+        "schools": [
+          {
+            "updated_at": "2020-08-13 10:02:15",
+            "name": "sfsf",
+            "created_at": "2020-08-13 10:02:15",
+            "id": 2781,
+            "key": "0-7-0",
+            "classes": []
+          },
+          {
+            "updated_at": "2020-08-05 16:15:39",
+            "name": "Lycée 3 de Est",
+            "created_at": "2020-08-05 16:15:39",
+            "id": 162,
+            "key": "0-7-1",
+            "classes": []
+          }
+        ]
+      },
+      {
+        "updated_at": "2020-08-05 16:15:23",
+        "name": "Centre",
+        "created_at": "2020-08-05 16:15:23",
+        "id": 1803,
+        "key": "0-8",
+        "schools": [
+          {
+            "updated_at": "2020-08-17 12:29:28",
+            "name": "trojan",
+            "created_at": "2020-08-17 12:29:28",
+            "id": 3839,
+            "key": "0-8-0",
+            "classes": [
+              {
+                "updated_at": "2020-08-05 16:15:57",
+                "name": "Terminal",
+                "created_at": "2020-08-05 16:15:57",
+                "id": 1,
+                "key": "0-8-0-0",
+                "matieres": [
+                  {
+                    "updated_at": "2020-08-05 16:15:20",
+                    "name": "Physique",
+                    "created_at": "2020-08-05 16:15:20",
+                    "description": "12 Chapitres",
+                    "id": 1950,
+                    "key": "0-8-0-0-0",
+                    "annees": [
+                      {
+                        "updated_at": "2020-08-13 09:14:00",
+                        "active": false,
+                        "created_at": "2020-08-13 09:14:00",
+                        "annee": "2018\/2019",
+                        "id": 2778,
+                        "key": "0-8-0-0-0-0",
+                        "entrances": [],
+                        "concours": [],
+                        "exams": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "updated_at": "2020-08-05 16:15:54",
+            "name": "Lycée 60 de Centre",
+            "created_at": "2020-08-05 16:15:54",
+            "id": 1937,
+            "key": "0-8-1",
+            "classes": []
+          }
+        ]
+      },
+      {
+        "updated_at": "2020-08-05 16:15:23",
+        "name": "Adamaoua",
+        "created_at": "2020-08-05 16:15:23",
+        "id": 57,
+        "key": "0-9",
+        "schools": [
+          {
+            "updated_at": "2020-08-05 16:15:44",
+            "name": "Lycée 20 de Adamaoua",
+            "created_at": "2020-08-05 16:15:44",
+            "id": 110,
+            "key": "0-9-0",
+            "classes": []
+          }
+        ]
+      }
+    ]
+  }
